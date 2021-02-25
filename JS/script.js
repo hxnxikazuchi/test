@@ -1,5 +1,6 @@
 /* jslint node: true */
 /* jshint browser: true */
 "use strict";
-a = 15;
-console.log(a);
+
+const result = confirm("you ass?");
+console.log(result);
